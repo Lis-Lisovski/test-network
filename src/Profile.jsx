@@ -1,7 +1,7 @@
 const Profile = () => {
    return (
       <div className="container">
-         <div className="row justify-content-center ">
+         <div className="row justify-content-end mr-3 ">
             <div className="col-8">
                <div className="card mb-3">
                   <img src="#" className="card-img-top" alt="fox image"/>
